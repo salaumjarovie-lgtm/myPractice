@@ -1,4 +1,4 @@
-# even or odd
+#Check if the number is even or odd.
 
 fromUser = int(input("Enter number: "))
 
