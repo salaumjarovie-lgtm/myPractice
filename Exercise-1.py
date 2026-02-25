@@ -1,16 +1,6 @@
 #print("Hello! This is my first Python program.")
 
 
-
-
-
-# voting eligibility
-#fromUser = int(input("Enter age: "))
-#if fromUser >= 18:
-#    print("You are eligible to vote.")
-#else:
-#    print("You are not eligible to vote.")
-
 # grade classifier
 #fromUser = int(input("Enter grade: "))
 #if fromUser >= 90 and fromUser <= 100:
